@@ -1,2 +1,0 @@
-# komala-pyp
-# komala-portfolio
